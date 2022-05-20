@@ -35,7 +35,7 @@ Linux terminal (GitBash) commands
  test testovich
 
 11) Cохранить и выйти :
- esc :wq
+ esc :wq (enter)
 
 12) Выйти из папки на уровень выше :
  cd ..
