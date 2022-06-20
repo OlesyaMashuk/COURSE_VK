@@ -34,12 +34,12 @@ ESC :wq ENTER
 4. Запушить структуру багрепорта на внешний репозиторий
 ```git add bug_report.md
 git commit -m "Add file bug_report.md to Bug_Reports branch"
-git push
-```
+git push```
+
 5. Вмержить ветку Bug_Reports в Main
 ```git checkout master
-git merge Bug_Reports
-```
+git merge Bug_Reports```
+
 6. Запушить main на внешний репозиторий
 ```git push
 ```
