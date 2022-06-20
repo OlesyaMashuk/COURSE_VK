@@ -4,15 +4,35 @@
 - Jmeter
 ```git branch Jmeter```
 - CheckLists
-- Bag Reports
+```git branch CheckList```
+- Bug_Reports
+```git branch Bug_Reports``` 
 - SQL
+```git branch SQL```
 - Charles
-- Mobile testing
-```
+```git branch Charles```
+- Mobile_testing
+```git branch Mobile_testing```
 
 2. Запушить все ветки на внешний репозиторий
-3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
+- ```git push -u origin Postman```
+- ```git push -u origin Jmeter```
+- ```git push -u origin Checklists```
+- ```git push -u origin Bug_Reports```
+- ```git push -u origin SQL```
+- ```git push -u orugun Charles```
+- ```git push -u origin Mobile_testing```
+
+3. В ветке Bug_Reports сделать текстовый документ со структурой баг репорта
+```git checkout Bug_Reports
+touch bug_report.md
+vim bug_report.md
+i
+#ввести структуру баг репорта
+ECS :wq ENTER
+```
 4. Запушить структуру багрепорта на внешний репозиторий
+
 5. Вмержить ветку Bag Reports в Main
 6. Запушить main на внешний репозиторий.
 7. В ветке CheckLists набросать структуру чек листа.
