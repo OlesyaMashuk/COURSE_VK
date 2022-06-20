@@ -45,8 +45,8 @@ git merge Bug_Reports
 ```
 
 6. Запушить main на внешний репозиторий
-```git push
-```
+```git push```
+
 7. В ветке CheckLists набросать структуру чек листа.
 ```
 git checkout Checklists
