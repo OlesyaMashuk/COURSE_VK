@@ -64,24 +64,27 @@ git push
 ```
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 
-Зайти на свой [github](https://github.com/OlesyaMashuk) -->
+Зайти на свой [github](https://github.com/OlesyaMashuk)
 
 Выбрать репозиторий [Course_VK](https://github.com/OlesyaMashuk/Course_VK)
 ![Screenshot_13](https://user-images.githubusercontent.com/91422609/174664793-9215a434-7240-46e4-954e-0f58540b2919.png)
 
 Нажать на кнопку 
+
 ![Screenshot_14](https://user-images.githubusercontent.com/91422609/174664994-78d8dc80-52ff-4de7-a819-9d4aa113ce6e.png)
 
 Под заголовком Open a pull request должно быть указано см.скриншот, написать Add file checklist.md to Checklists branch
 ![Screenshot_15](https://user-images.githubusercontent.com/91422609/174665047-5a8b1bc1-281a-454d-b847-7d53f45f2436.png)
 
 Нажать на кнопку 
+
 ![Screenshot_16](https://user-images.githubusercontent.com/91422609/174665207-e7e2a253-40aa-4be0-ae60-2f6c5ebc0f7d.png)
 
 После проверки возможности слияния веток есть сообщение
 ![Screenshot_17](https://user-images.githubusercontent.com/91422609/174665295-dbb00c08-4d70-4133-82a2-0ac6e8c17622.png)
 
 Нажать на кнопку
+
 ![Screenshot_18](https://user-images.githubusercontent.com/91422609/174665340-8951b37c-05c7-4fac-bc44-0041f4cdb858.png)
 
 После слияния веток есть сообщение
