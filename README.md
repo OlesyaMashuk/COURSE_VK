@@ -1,5 +1,5 @@
-# QAcourse_HW 29 group
-HW по курсу Вадима Ксендзова 29 поток ksendzov.com
+
+HW 29 поток 
 
 
 HW_1 задание по теме "Терминал GitBuch"
